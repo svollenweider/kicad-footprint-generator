@@ -341,7 +341,7 @@ DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.5mm:
   #include_suffix_in_3dpath: 'False'
   #include_pad_size: 'fp_name_only' # 'both' | 'none' (default)
 
-DFN-8-1EP_2x3mm_P0.5mm_EP1.4x1.7mm:
+DFN-8-1EP_2x3mm_P0.5mm_EP1.7x1.4mm:
   device_type: 'DFN'
   #manufacturer: 'man'
   #part_number: 'mpn'
@@ -372,7 +372,7 @@ DFN-8-1EP_2x3mm_P0.5mm_EP1.4x1.7mm:
   EP_size_x_overwrite: 1.7
   EP_size_y:
     minimum: 1.3
-    maximum: 1.45
+    maximum: 1.55
   EP_size_y_overwrite: 1.4
 # EP_paste_coverage: 0.65
   EP_num_paste_pads: [2, 2]
